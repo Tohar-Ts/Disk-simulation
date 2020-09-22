@@ -1,7 +1,3 @@
-# Name: Tohar Tsvitman
-# id: 318192838
-
-
 # General
 
 This program is a simulation of a file managment system in a disk according to unix system.
